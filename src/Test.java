@@ -3,6 +3,12 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println("hola mundo");
 		
+<<<<<<< HEAD
 		System.out.println("rama nueva");
+=======
+		
+		
+		System.out.println("rama 2");
+>>>>>>> rama2
 	}
 }
